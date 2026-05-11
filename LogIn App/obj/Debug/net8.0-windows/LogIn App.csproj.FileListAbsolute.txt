@@ -1,0 +1,38 @@
+C:\Users\vasyb\Desktop\LoginApp\LogIn App\LogIn App\obj\Debug\net8.0-windows\LogIn_App.Properties.Resources.resources
+C:\Users\vasyb\Desktop\LoginApp\LogIn App\LogIn App\obj\Debug\net8.0-windows\LogIn_App.Welcome.resources
+C:\Users\vasyb\Desktop\LoginApp\LogIn App\LogIn App\obj\Debug\net8.0-windows\LogIn App.csproj.GenerateResource.cache
+C:\Users\vasyb\Desktop\LoginApp\LogIn App\LogIn App\obj\Debug\net8.0-windows\LogIn App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasyb\Desktop\LoginApp\LogIn App\LogIn App\obj\Debug\net8.0-windows\LogIn App.AssemblyInfoInputs.cache
+C:\Users\vasyb\Desktop\LoginApp\LogIn App\LogIn App\obj\Debug\net8.0-windows\LogIn App.AssemblyInfo.cs
+C:\Users\vasyb\Desktop\LoginApp\LogIn App\LogIn App\obj\Debug\net8.0-windows\LogIn App.csproj.CoreCompileInputs.cache
+C:\Users\vasyb\Desktop\LoginApp\LogIn App\LogIn App\bin\Debug\net8.0-windows\LogIn App.exe
+C:\Users\vasyb\Desktop\LoginApp\LogIn App\LogIn App\bin\Debug\net8.0-windows\LogIn App.deps.json
+C:\Users\vasyb\Desktop\LoginApp\LogIn App\LogIn App\bin\Debug\net8.0-windows\LogIn App.runtimeconfig.json
+C:\Users\vasyb\Desktop\LoginApp\LogIn App\LogIn App\bin\Debug\net8.0-windows\LogIn App.dll
+C:\Users\vasyb\Desktop\LoginApp\LogIn App\LogIn App\bin\Debug\net8.0-windows\LogIn App.pdb
+C:\Users\vasyb\Desktop\LoginApp\LogIn App\LogIn App\obj\Debug\net8.0-windows\LogIn App.dll
+C:\Users\vasyb\Desktop\LoginApp\LogIn App\LogIn App\obj\Debug\net8.0-windows\refint\LogIn App.dll
+C:\Users\vasyb\Desktop\LoginApp\LogIn App\LogIn App\obj\Debug\net8.0-windows\LogIn App.pdb
+C:\Users\vasyb\Desktop\LoginApp\LogIn App\LogIn App\obj\Debug\net8.0-windows\LogIn App.genruntimeconfig.cache
+C:\Users\vasyb\Desktop\LoginApp\LogIn App\LogIn App\obj\Debug\net8.0-windows\ref\LogIn App.dll
+C:\Users\vasyb\Desktop\LoginApp\LogIn App\LogIn App\obj\Debug\net8.0-windows\LogIn_App.CreateAccount.resources
+C:\Users\vasyb\Desktop\LoginApp\LogIn App\LogIn App\obj\Debug\net8.0-windows\LogIn_App.LogIn.resources
+C:\Users\vasyb\OneDrive\Desktop\LoginApp\LogIn App\LogIn App\bin\Debug\net8.0-windows\LogIn App.exe
+C:\Users\vasyb\OneDrive\Desktop\LoginApp\LogIn App\LogIn App\bin\Debug\net8.0-windows\LogIn App.deps.json
+C:\Users\vasyb\OneDrive\Desktop\LoginApp\LogIn App\LogIn App\bin\Debug\net8.0-windows\LogIn App.runtimeconfig.json
+C:\Users\vasyb\OneDrive\Desktop\LoginApp\LogIn App\LogIn App\bin\Debug\net8.0-windows\LogIn App.dll
+C:\Users\vasyb\OneDrive\Desktop\LoginApp\LogIn App\LogIn App\bin\Debug\net8.0-windows\LogIn App.pdb
+C:\Users\vasyb\OneDrive\Desktop\LoginApp\LogIn App\LogIn App\obj\Debug\net8.0-windows\LogIn_App.CreateAccount.resources
+C:\Users\vasyb\OneDrive\Desktop\LoginApp\LogIn App\LogIn App\obj\Debug\net8.0-windows\LogIn_App.LogIn.resources
+C:\Users\vasyb\OneDrive\Desktop\LoginApp\LogIn App\LogIn App\obj\Debug\net8.0-windows\LogIn_App.Properties.Resources.resources
+C:\Users\vasyb\OneDrive\Desktop\LoginApp\LogIn App\LogIn App\obj\Debug\net8.0-windows\LogIn_App.Welcome.resources
+C:\Users\vasyb\OneDrive\Desktop\LoginApp\LogIn App\LogIn App\obj\Debug\net8.0-windows\LogIn App.csproj.GenerateResource.cache
+C:\Users\vasyb\OneDrive\Desktop\LoginApp\LogIn App\LogIn App\obj\Debug\net8.0-windows\LogIn App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasyb\OneDrive\Desktop\LoginApp\LogIn App\LogIn App\obj\Debug\net8.0-windows\LogIn App.AssemblyInfoInputs.cache
+C:\Users\vasyb\OneDrive\Desktop\LoginApp\LogIn App\LogIn App\obj\Debug\net8.0-windows\LogIn App.AssemblyInfo.cs
+C:\Users\vasyb\OneDrive\Desktop\LoginApp\LogIn App\LogIn App\obj\Debug\net8.0-windows\LogIn App.csproj.CoreCompileInputs.cache
+C:\Users\vasyb\OneDrive\Desktop\LoginApp\LogIn App\LogIn App\obj\Debug\net8.0-windows\LogIn App.dll
+C:\Users\vasyb\OneDrive\Desktop\LoginApp\LogIn App\LogIn App\obj\Debug\net8.0-windows\refint\LogIn App.dll
+C:\Users\vasyb\OneDrive\Desktop\LoginApp\LogIn App\LogIn App\obj\Debug\net8.0-windows\LogIn App.pdb
+C:\Users\vasyb\OneDrive\Desktop\LoginApp\LogIn App\LogIn App\obj\Debug\net8.0-windows\LogIn App.genruntimeconfig.cache
+C:\Users\vasyb\OneDrive\Desktop\LoginApp\LogIn App\LogIn App\obj\Debug\net8.0-windows\ref\LogIn App.dll
